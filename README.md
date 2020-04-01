@@ -22,3 +22,5 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 - Theme UI-based theming
 - react-spring parallax effect
 - CSS Animations on Shapes
+
+_You can check my site [here](https://my-portfolio-en.netlify.com) 🔥_
